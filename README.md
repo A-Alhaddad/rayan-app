@@ -7,7 +7,7 @@ This app create by Flutter Framework version 3.24.0 .
     <a href="https://apps.apple.com/de/app/%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9/id1613081960"><img src="https://kanzalsahra.com/wp-content/uploads/2024/03/app-store.svg"/></a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 30px; height: 100vh;">
+<div align="center"; style="display: flex; justify-content: center; align-items: center; padding: 30px; height: 100vh;">
         <img src="https://play-lh.googleusercontent.com/QtjjxdpoLSznZDEzLampnkIMfndOom0iCn3x14o8VJsWb2_LPkK-rvJgtsEmS4zsCFiV=w1052-h592-rw" 
              alt="Image 1" 
              style="height: 200px; object-fit: cover; border-radius: 8px; pointer-events: none;">
